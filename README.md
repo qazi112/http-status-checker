@@ -89,8 +89,8 @@ Pull requests and feature suggestions welcome! Open an issue to start a discussi
 
 ---
 
-## 📄 License
+## 📝 License
 
-MIT License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
