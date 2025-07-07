@@ -2,7 +2,6 @@ from setuptools import setup, find_packages
 
 setup(
     name='http-status-checker-tool',
-    version='1.0.1',
     author='Qazi Arsalan Shah',
     description='Basic - Fast, concurrent CLI tool to check HTTP status codes of provided URLs',
     long_description=open('README.md').read(),
