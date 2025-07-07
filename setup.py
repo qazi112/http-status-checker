@@ -9,6 +9,10 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     url='https://github.com/qazi112/http-status-checker',
+    project_urls={
+        'Source': 'https://github.com/qazi112/http-status-checker',
+        'Tracker': 'https://github.com/qazi112/http-status-checker/issues'
+        },
     install_requires=[
         'requests>=2.25.1',
         'colorama>=0.4.6',
